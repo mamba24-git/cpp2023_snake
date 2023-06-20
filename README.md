@@ -1,6 +1,6 @@
 # KMU C++ Programming 2023 
 
-Snake Project by 2023 정하람, 20203059 도승준
+Snake Project by 20203139 정하람, 20203059 도승준
 --
 How to install... (Mac with Homebrew)
 1. git clone https://github.com/mamba24-git/cpp2023_snake.git
